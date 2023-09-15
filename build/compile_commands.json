@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/main.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/main.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/main.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Document/Document.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Document/Document.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Document/Document.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Document/Document.cpp.obj"
+},
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/User/User.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/User/User.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/User/User.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/User/User.cpp.obj"
+},
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Encryption/Encryption.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Encryption/Encryption.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj"
+}
+]
