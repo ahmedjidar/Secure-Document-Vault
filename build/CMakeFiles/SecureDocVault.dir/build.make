@@ -129,12 +129,60 @@ CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.s"
 	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/asus/Secure Document Vault/src/Encryption/Encryption.cpp" -o CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.s
 
+CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj: CMakeFiles/SecureDocVault.dir/flags.make
+CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj: CMakeFiles/SecureDocVault.dir/includes_CXX.rsp
+CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj: C:/Users/asus/Secure\ Document\ Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp
+CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj: CMakeFiles/SecureDocVault.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:/Users/asus/Secure Document Vault/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj -MF CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj.d -o CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj -c "C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp"
+
+CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp" > CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i
+
+CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp" -o CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s
+
+CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj: CMakeFiles/SecureDocVault.dir/flags.make
+CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj: CMakeFiles/SecureDocVault.dir/includes_CXX.rsp
+CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj: C:/Users/asus/Secure\ Document\ Vault/src/Hash/Hash.cpp
+CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj: CMakeFiles/SecureDocVault.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:/Users/asus/Secure Document Vault/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj -MF CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj.d -o CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj -c "C:/Users/asus/Secure Document Vault/src/Hash/Hash.cpp"
+
+CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.i"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/asus/Secure Document Vault/src/Hash/Hash.cpp" > CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.i
+
+CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.s"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/asus/Secure Document Vault/src/Hash/Hash.cpp" -o CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.s
+
+CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj: CMakeFiles/SecureDocVault.dir/flags.make
+CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj: CMakeFiles/SecureDocVault.dir/includes_CXX.rsp
+CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj: C:/Users/asus/Secure\ Document\ Vault/src/Hash/HashSubClasses/HashingStrategies.cpp
+CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj: CMakeFiles/SecureDocVault.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:/Users/asus/Secure Document Vault/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj -MF CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj.d -o CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj -c "C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp"
+
+CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.i"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp" > CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.i
+
+CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.s"
+	C:/MinGW/bin/g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp" -o CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.s
+
 # Object files for target SecureDocVault
 SecureDocVault_OBJECTS = \
 "CMakeFiles/SecureDocVault.dir/src/main.cpp.obj" \
 "CMakeFiles/SecureDocVault.dir/src/Document/Document.cpp.obj" \
 "CMakeFiles/SecureDocVault.dir/src/User/User.cpp.obj" \
-"CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj"
+"CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj" \
+"CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj" \
+"CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj" \
+"CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj"
 
 # External object files for target SecureDocVault
 SecureDocVault_EXTERNAL_OBJECTS =
@@ -143,10 +191,13 @@ C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureD
 C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/src/Document/Document.cpp.obj
 C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/src/User/User.cpp.obj
 C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj
+C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj
+C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj
+C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj
 C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/build.make
 C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/linkLibs.rsp
 C:/Users/asus/Secure\ Document\ Vault/bin/SecureDocVault.exe: CMakeFiles/SecureDocVault.dir/objects1.rsp
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:/Users/asus/Secure Document Vault/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable \"C:/Users/asus/Secure Document Vault/bin/SecureDocVault.exe\""
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="C:/Users/asus/Secure Document Vault/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Linking CXX executable \"C:/Users/asus/Secure Document Vault/bin/SecureDocVault.exe\""
 	"C:/Program Files/CMake/bin/cmake.exe" -E rm -f CMakeFiles/SecureDocVault.dir/objects.a
 	C:/MinGW/bin/ar.exe qc CMakeFiles/SecureDocVault.dir/objects.a @CMakeFiles/SecureDocVault.dir/objects1.rsp
 	C:/MinGW/bin/g++.exe -g -Wl,--whole-archive CMakeFiles/SecureDocVault.dir/objects.a -Wl,--no-whole-archive -o "C:/Users/asus/Secure Document Vault/bin/SecureDocVault.exe" -Wl,--out-implib,libSecureDocVault.dll.a -Wl,--major-image-version,0,--minor-image-version,1 @CMakeFiles/SecureDocVault.dir/linkLibs.rsp

@@ -22,5 +22,23 @@
   "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Encryption/Encryption.cpp\"",
   "file": "C:/Users/asus/Secure Document Vault/src/Encryption/Encryption.cpp",
   "output": "CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.obj"
+},
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj"
+},
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Hash/Hash.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Hash/Hash.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.obj"
+},
+{
+  "directory": "C:/Users/asus/Secure Document Vault/build",
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj"
 }
 ]
