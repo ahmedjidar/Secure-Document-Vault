@@ -20,16 +20,16 @@ set(USER_SOURCES
 
 set(ENCRYPTION_SOURCES
     src/Encryption/Encryption.cpp
-    src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp
+    src/Encryption/EncryptionStrategies.cpp
 )
 
 set(HASH_SOURCES
     src/Hash/Hash.cpp
-    src/Hash/HashSubClasses/HashingStrategies.cpp
+    src/Hash/HashingStrategies.cpp
 )
 
 # the executable and its sources
-add_executable(${PROJECT_NAME}
+add_executable(SecureDocVault
     src/main.cpp 
     ${DOCUMENT_SOURCES}
     ${USER_SOURCES}
@@ -38,10 +38,10 @@ add_executable(${PROJECT_NAME}
 )
 
 # build-time libraries linking
-target_link_libraries(${PROJECT_NAME} ssl crypto)
+# target_link_libraries(SecureDocVault ssl crypto)
 
 # the output directory for the executable
-set_target_properties(${PROJECT_NAME} PROPERTIES
+set_target_properties(SecureDocVault PROPERTIES
     RUNTIME_OUTPUT_DIRECTORY ${PROJECT_SOURCE_DIR}/bin
     VERSION ${PROJECT_VERSION}
 )
@@ -52,3 +52,9 @@ enable_testing()
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
 include(CPack)
+
+# using cmake: 
+    # Trigger ctrl+save after every considerable change in you source codes
+    # Trigger ctrl+save in your CMakeLists.txt file to re-build
+    # Navigate to your /build directory and run `make`
+    # Navigate to your /bin directory and run `./executable.exe`

@@ -25,9 +25,9 @@
 },
 {
   "directory": "C:/Users/asus/Secure Document Vault/build",
-  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp\"",
-  "file": "C:/Users/asus/Secure Document Vault/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp",
-  "output": "CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj"
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptionStrategies.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Encryption/EncryptionStrategies.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Encryption/EncryptionStrategies.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptionStrategies.cpp.obj"
 },
 {
   "directory": "C:/Users/asus/Secure Document Vault/build",
@@ -37,8 +37,8 @@
 },
 {
   "directory": "C:/Users/asus/Secure Document Vault/build",
-  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp\"",
-  "file": "C:/Users/asus/Secure Document Vault/src/Hash/HashSubClasses/HashingStrategies.cpp",
-  "output": "CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj"
+  "command": "C:/MinGW/bin/g++.exe  @CMakeFiles/SecureDocVault.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles/SecureDocVault.dir/src/Hash/HashingStrategies.cpp.obj -c \"C:/Users/asus/Secure Document Vault/src/Hash/HashingStrategies.cpp\"",
+  "file": "C:/Users/asus/Secure Document Vault/src/Hash/HashingStrategies.cpp",
+  "output": "CMakeFiles/SecureDocVault.dir/src/Hash/HashingStrategies.cpp.obj"
 }
 ]

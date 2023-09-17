@@ -547,30 +547,6 @@ src/Document/Document.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Document/Document.cpp.s
 .PHONY : src/Document/Document.cpp.s
 
-src/Encryption/EncryptSubClasses/EncryptionStrategies.obj: src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj
-.PHONY : src/Encryption/EncryptSubClasses/EncryptionStrategies.obj
-
-# target to build an object file
-src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj
-.PHONY : src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.obj
-
-src/Encryption/EncryptSubClasses/EncryptionStrategies.i: src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i
-.PHONY : src/Encryption/EncryptSubClasses/EncryptionStrategies.i
-
-# target to preprocess a source file
-src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i
-.PHONY : src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.i
-
-src/Encryption/EncryptSubClasses/EncryptionStrategies.s: src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s
-.PHONY : src/Encryption/EncryptSubClasses/EncryptionStrategies.s
-
-# target to generate assembly for a file
-src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s
-.PHONY : src/Encryption/EncryptSubClasses/EncryptionStrategies.cpp.s
-
 src/Encryption/Encryption.obj: src/Encryption/Encryption.cpp.obj
 .PHONY : src/Encryption/Encryption.obj
 
@@ -594,6 +570,30 @@ src/Encryption/Encryption.s: src/Encryption/Encryption.cpp.s
 src/Encryption/Encryption.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/Encryption.cpp.s
 .PHONY : src/Encryption/Encryption.cpp.s
+
+src/Encryption/EncryptionStrategies.obj: src/Encryption/EncryptionStrategies.cpp.obj
+.PHONY : src/Encryption/EncryptionStrategies.obj
+
+# target to build an object file
+src/Encryption/EncryptionStrategies.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptionStrategies.cpp.obj
+.PHONY : src/Encryption/EncryptionStrategies.cpp.obj
+
+src/Encryption/EncryptionStrategies.i: src/Encryption/EncryptionStrategies.cpp.i
+.PHONY : src/Encryption/EncryptionStrategies.i
+
+# target to preprocess a source file
+src/Encryption/EncryptionStrategies.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptionStrategies.cpp.i
+.PHONY : src/Encryption/EncryptionStrategies.cpp.i
+
+src/Encryption/EncryptionStrategies.s: src/Encryption/EncryptionStrategies.cpp.s
+.PHONY : src/Encryption/EncryptionStrategies.s
+
+# target to generate assembly for a file
+src/Encryption/EncryptionStrategies.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Encryption/EncryptionStrategies.cpp.s
+.PHONY : src/Encryption/EncryptionStrategies.cpp.s
 
 src/Hash/Hash.obj: src/Hash/Hash.cpp.obj
 .PHONY : src/Hash/Hash.obj
@@ -619,29 +619,29 @@ src/Hash/Hash.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/Hash.cpp.s
 .PHONY : src/Hash/Hash.cpp.s
 
-src/Hash/HashSubClasses/HashingStrategies.obj: src/Hash/HashSubClasses/HashingStrategies.cpp.obj
-.PHONY : src/Hash/HashSubClasses/HashingStrategies.obj
+src/Hash/HashingStrategies.obj: src/Hash/HashingStrategies.cpp.obj
+.PHONY : src/Hash/HashingStrategies.obj
 
 # target to build an object file
-src/Hash/HashSubClasses/HashingStrategies.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.obj
-.PHONY : src/Hash/HashSubClasses/HashingStrategies.cpp.obj
+src/Hash/HashingStrategies.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/HashingStrategies.cpp.obj
+.PHONY : src/Hash/HashingStrategies.cpp.obj
 
-src/Hash/HashSubClasses/HashingStrategies.i: src/Hash/HashSubClasses/HashingStrategies.cpp.i
-.PHONY : src/Hash/HashSubClasses/HashingStrategies.i
+src/Hash/HashingStrategies.i: src/Hash/HashingStrategies.cpp.i
+.PHONY : src/Hash/HashingStrategies.i
 
 # target to preprocess a source file
-src/Hash/HashSubClasses/HashingStrategies.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.i
-.PHONY : src/Hash/HashSubClasses/HashingStrategies.cpp.i
+src/Hash/HashingStrategies.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/HashingStrategies.cpp.i
+.PHONY : src/Hash/HashingStrategies.cpp.i
 
-src/Hash/HashSubClasses/HashingStrategies.s: src/Hash/HashSubClasses/HashingStrategies.cpp.s
-.PHONY : src/Hash/HashSubClasses/HashingStrategies.s
+src/Hash/HashingStrategies.s: src/Hash/HashingStrategies.cpp.s
+.PHONY : src/Hash/HashingStrategies.s
 
 # target to generate assembly for a file
-src/Hash/HashSubClasses/HashingStrategies.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/HashSubClasses/HashingStrategies.cpp.s
-.PHONY : src/Hash/HashSubClasses/HashingStrategies.cpp.s
+src/Hash/HashingStrategies.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SecureDocVault.dir/build.make CMakeFiles/SecureDocVault.dir/src/Hash/HashingStrategies.cpp.s
+.PHONY : src/Hash/HashingStrategies.cpp.s
 
 src/User/User.obj: src/User/User.cpp.obj
 .PHONY : src/User/User.obj
@@ -734,18 +734,18 @@ help:
 	@echo "... src/Document/Document.obj"
 	@echo "... src/Document/Document.i"
 	@echo "... src/Document/Document.s"
-	@echo "... src/Encryption/EncryptSubClasses/EncryptionStrategies.obj"
-	@echo "... src/Encryption/EncryptSubClasses/EncryptionStrategies.i"
-	@echo "... src/Encryption/EncryptSubClasses/EncryptionStrategies.s"
 	@echo "... src/Encryption/Encryption.obj"
 	@echo "... src/Encryption/Encryption.i"
 	@echo "... src/Encryption/Encryption.s"
+	@echo "... src/Encryption/EncryptionStrategies.obj"
+	@echo "... src/Encryption/EncryptionStrategies.i"
+	@echo "... src/Encryption/EncryptionStrategies.s"
 	@echo "... src/Hash/Hash.obj"
 	@echo "... src/Hash/Hash.i"
 	@echo "... src/Hash/Hash.s"
-	@echo "... src/Hash/HashSubClasses/HashingStrategies.obj"
-	@echo "... src/Hash/HashSubClasses/HashingStrategies.i"
-	@echo "... src/Hash/HashSubClasses/HashingStrategies.s"
+	@echo "... src/Hash/HashingStrategies.obj"
+	@echo "... src/Hash/HashingStrategies.i"
+	@echo "... src/Hash/HashingStrategies.s"
 	@echo "... src/User/User.obj"
 	@echo "... src/User/User.i"
 	@echo "... src/User/User.s"

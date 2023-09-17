@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Secure Document Vault Cipher Based";
+    cout << "SDV-CipherSafe";
+
     return 0;
 }

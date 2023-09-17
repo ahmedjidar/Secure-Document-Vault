@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Site BuildName="Win32-make"
-	BuildStamp="20230916-1510-Experimental"
+	BuildStamp="20230917-1020-Experimental"
 	Name="DESKTOP-V2HJGUR"
 	Generator="ctest-3.27.5"
 	CompilerName="C:/MinGW/bin/g++.exe"
@@ -21,14 +21,14 @@
 	TotalVirtualMemory="19662"
 	TotalPhysicalMemory="7886"
 	LogicalProcessorsPerPhysical="2"
-	ProcessorClockFrequency="3055"
+	ProcessorClockFrequency="2995"
 	>
 	<Testing>
-		<StartDateTime>Sep 16 17:50 Romance Daylight Time</StartDateTime>
-		<StartTestTime>1694879419</StartTestTime>
+		<StartDateTime>Sep 17 14:13 Romance Daylight Time</StartDateTime>
+		<StartTestTime>1694952837</StartTestTime>
 		<TestList/>
-		<EndDateTime>Sep 16 17:50 Romance Daylight Time</EndDateTime>
-		<EndTestTime>1694879419</EndTestTime>
+		<EndDateTime>Sep 17 14:13 Romance Daylight Time</EndDateTime>
+		<EndTestTime>1694952837</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
